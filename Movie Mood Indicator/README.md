@@ -69,9 +69,3 @@ Once you have the application running, you can start exploring the various movie
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions to improve MoodMovie, feel free to open a GitHub issue or submit a pull request. Please follow the existing code style and guidelines when contributing.
-
-## License
-
- license - [MIT License]
-
-Happy movie exploring with MoodMovie! 🍿🎬
